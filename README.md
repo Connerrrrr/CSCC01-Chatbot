@@ -1,4 +1,4 @@
-# Team 7 Chatbot
+# Chatbot
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 - [Major libraries and dependencies](#major-libraries-and-dependencie)
 
 ## Features
-
+This is a chatbot project created in group of five and moved from bitbucket.  
 As a chatbot, our product has basic funtionality of giving out information based on user given queries. It is designed to be closed-domain chatbot with information-fetching system. It also has the features specifically for admin and normal users.
 
 
